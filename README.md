@@ -1,7 +1,7 @@
 # Database-Management
 This is simple JSP tasks for self practicing. It implements JDBC with little bit of JAVA and bootstrapping. Here user can insert, delete and update the entries.
 
-You need to make sql database name student_db and table in that table named student first with below mentioned entities.
+You need to make a sql database named student_db and a table in that database named student first with specific entities mentioned below.
 
 My-Sql commands:
 
