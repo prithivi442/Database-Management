@@ -6,8 +6,8 @@ You need to make a sql database named student_db and a table in that database na
 My-Sql commands:
 
 Creating database:
-CREATE DATABASE student_db
-use student_db
+CREATE DATABASE student_db;
+use student_db;
 
 Creating Table:
 CREATE TABLE student(
@@ -19,4 +19,4 @@ email TEXT,
 username VARCHAR(32).
 pass VARCHAR(32),
 college VARCHAR(10)
-)
+);
